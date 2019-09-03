@@ -7,8 +7,6 @@ import asyncio
 import time
 import random
 
-#this is a test change for github 
-
 Client = discord.Client()
 client = commands.Bot(command_prefix = "!")
 
