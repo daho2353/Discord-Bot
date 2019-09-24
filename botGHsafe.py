@@ -61,7 +61,7 @@ eightBall = {
     "nope1": "no way Jose!",
     "nope2": "naaaaaah",
     "nope3": "lol nope",
-    "nope4": "... ok retard",
+    "nope4": "... no",
     "nope5": "not even the slightest chance"
 }
 
